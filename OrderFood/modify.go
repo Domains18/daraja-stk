@@ -1,4 +1,4 @@
-package OrderFood
+package main
 
 import "fmt"
 
